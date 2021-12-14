@@ -5,7 +5,7 @@
 [![you tube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](link)
 [![linkedim](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](link)
 
-![diego taveira](https://github-readme-stats.vercel.app/api?username=diegotaveira&show_icons=true&theme=radical) 
+![diego ra](https://github-readme-stats.vercel.app/api?username=diegotaveira&show_icons=true&theme=radical) 
 
 ## Tecnologias que estou estudando 😎 
 <div style="display: inline-block;">
@@ -22,4 +22,5 @@
 <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg alt="" style=" width: 60px; height: 60px;">
 <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg alt="" style=" width: 60px; height: 60px;">
 <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg alt="" style=" width: 60px; height: 60px;">
+<img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg alt="" style=" width: 60px; height: 60px;">
 </div>
