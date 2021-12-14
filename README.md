@@ -1,4 +1,4 @@
-## olá! eu sou o Diego Taveira 🖐️
+## olá! eu sou o Diego  🖐️
 
 [![redesocial](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](link)
 [![telegran](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](link)
@@ -8,16 +8,17 @@
 ![diego taveira](https://github-readme-stats.vercel.app/api?username=diegotaveira&show_icons=true&theme=radical) 
 
 ## Tecnologias que estou estudando 😎 
-
-<div style="display: inline-block;"><br>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="" >
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="" >
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="" >
-    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="" >
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="" >
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="" >
-    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="" >
-    
-
+<div style="display: inline-block;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="" style=" width: 60px; height: 60px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="" style=" width: 60px; height: 60px;">
+<img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg alt="" style=" width: 60px; height: 60px;">
+<img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg alt="" style=" width: 60px; height: 60px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="" style=" width: 60px; height: 60px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" alt="" style=" width: 60px; height: 60px;">
+<img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg alt="" style=" width: 60px; height: 60px;">
+<img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg alt="" style=" width: 60px; height: 60px;">
+<img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg alt="" style=" width: 60px; height: 60px;">
+<img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg alt="" style=" width: 60px; height: 60px;">
+<img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg alt="" style=" width: 60px; height: 60px;">
+<img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg alt="" style=" width: 60px; height: 60px;">
 </div>
