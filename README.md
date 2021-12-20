@@ -14,6 +14,7 @@
 <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg alt="" style=" width: 60px; height: 60px;">
 <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg alt="" style=" width: 60px; height: 60px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="" style=" width: 60px; height: 60px;">
+<img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg alt="" style=" width: 60px; height: 60px;">
 <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg alt="" style=" width: 60px; height: 60px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" alt="" style=" width: 60px; height: 60px;">
 <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg alt="" style=" width: 60px; height: 60px;">
