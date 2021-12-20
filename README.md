@@ -19,5 +19,6 @@
 <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg alt="" style=" width: 60px; height: 60px;">
 <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg alt="" style=" width: 60px; height: 60px;">
 <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg alt="" style=" width: 60px; height: 60px;">
+<img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg alt="" style=" width: 60px; height: 60px;">
 
 </div>
