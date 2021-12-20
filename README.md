@@ -17,9 +17,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" alt="" style=" width: 60px; height: 60px;">
 <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg alt="" style=" width: 60px; height: 60px;">
 <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg alt="" style=" width: 60px; height: 60px;">
+<img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg alt="" style=" width: 60px; height: 60px;">
 <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg alt="" style=" width: 60px; height: 60px;">
 <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg alt="" style=" width: 60px; height: 60px;">
 <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg alt="" style=" width: 60px; height: 60px;">
 <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg alt="" style=" width: 60px; height: 60px;">
-<img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg alt="" style=" width: 60px; height: 60px;">
 </div>
