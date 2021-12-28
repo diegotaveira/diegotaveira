@@ -2,7 +2,7 @@
 
 [![redesocial](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](link)
 [![telegran](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](link)
-[![you tube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](link)
+[![you tube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCOFV0qHY5B0ghfyMgBkJQJA)
 [![linkedim](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](link)
 
 ![diego ra](https://github-readme-stats.vercel.app/api?username=diegotaveira&show_icons=true&theme=radical) 
