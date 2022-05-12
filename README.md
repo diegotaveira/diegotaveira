@@ -7,7 +7,6 @@
 
 ![diego ra](https://github-readme-stats.vercel.app/api?username=diegotaveira&show_icons=true&theme=algolia) 
 
-
 ## Tecnologias que estou estudando 😎 
 <div style="display: inline-block;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="" style=" width: 60px; height: 60px;">
