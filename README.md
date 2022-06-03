@@ -5,7 +5,6 @@
 [![you tube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCOFV0qHY5B0ghfyMgBkJQJA?sub_confirmation=1)
 [![linkedim](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-taveira-614035167/)
 
-
 ## Tecnologias que estou estudando 😎 
 <div style="display: inline-block;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="" style=" width: 60px; height: 60px;">
