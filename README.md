@@ -6,6 +6,7 @@
 [![linkedim](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-taveira-614035167/)
 
 ## Tecnologias que estou estudando 😎 
+
 <div style="display: inline-block;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="" style=" width: 60px; height: 60px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="" style=" width: 60px; height: 60px;">
