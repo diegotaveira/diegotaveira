@@ -1,6 +1,6 @@
 ## Olá! eu sou o Diego  🖐️
 
-Fronend developer and account creator on the channel[Dev School](https://www.youtube.com/c/DevSchoolDIEGO/videos)
+Front end developer and channel content creator[Dev School](https://www.youtube.com/c/DevSchoolDIEGO/videos)
 
 ### Current stack
 - ⚡️Main language: `Javascript`
