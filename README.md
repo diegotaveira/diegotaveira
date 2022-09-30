@@ -1,4 +1,4 @@
-## Olá! eu sou o Diego  🖐️
+## hello i'm Diego  🖐️
 
 Front end developer and channel content creator[Dev School](https://www.youtube.com/c/DevSchoolDIEGO/videos)
 
